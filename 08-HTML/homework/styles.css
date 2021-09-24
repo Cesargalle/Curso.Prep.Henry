@@ -1,0 +1,17 @@
+	h1{
+			color: #484EFC
+		}
+		img{
+			width: 400px;
+		}
+		#thirdDiv{
+			height: 600px;
+			width: 500px;
+			background-color: #666795;
+			padding: 50px;
+			border:10px solid #4346B4 ;
+		}
+		#spanId{
+			font-size: 28px;
+			margin: 50px;
+		}
